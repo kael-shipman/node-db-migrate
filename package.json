@@ -1,5 +1,5 @@
 {
-  "name": "db-migrate",
+  "name": "@kael-shipman/db-migrate",
   "description": "Database migration framework for node.js",
   "author": "Tobias Gurtick",
   "bin": "./bin/db-migrate",
@@ -31,17 +31,17 @@
     "programable",
     "api"
   ],
-  "version": "1.0.0-beta.18",
+  "version": "1.0.0-beta.19",
   "engines": {
     "node": ">=8.0.0"
   },
   "bugs": {
-    "url": "https://github.com/db-migrate/node-db-migrate/issues"
+    "url": "https://github.com/kael-shipman/node-db-migrate/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/db-migrate/node-db-migrate.git"
+    "url": "https://github.com/kael-shipman/node-db-migrate.git"
   },
   "dependencies": {
     "bluebird": "^3.1.1",
